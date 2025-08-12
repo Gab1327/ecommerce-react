@@ -1,6 +1,7 @@
 # 🛒 TechStore - E-commerce React
 
 Um e-commerce moderno e responsivo desenvolvido com React e Vite.
+Meu primeiro projeto feito com React.
 
 ## ✨ Funcionalidades
 
@@ -21,8 +22,3 @@ Um e-commerce moderno e responsivo desenvolvido com React e Vite.
 - **CSS3** - Estilização com variáveis CSS e flexbox/grid
 - **JavaScript ES6+** - Recursos modernos da linguagem
 
-## 📦 Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU-USUARIO/ecommerce-react.git
